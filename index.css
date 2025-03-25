@@ -1,0 +1,11 @@
+@media (max-width: 768px) {
+    .mantine-Button-root {
+      width: 100%;
+      margin-bottom: 10px;
+    }
+    #textarea {
+      min-height: 120px;
+      font-size: 14px;
+    }
+  }
+  
